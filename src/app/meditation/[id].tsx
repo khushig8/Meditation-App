@@ -8,7 +8,6 @@ import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 import Slider from '@react-native-community/slider';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
-
 import audio from '@assets/meditations/audio1.mp3';
 import AnimatedBackground from '@/components/AnimatedBackground';
 
